@@ -16,7 +16,7 @@ Demianzx = {
         fronEnd: ["angular, react"],
         mobileApp: ["ionic","angular", "android studio"],
         database: ["mongo","mySql"],
-        misc: ["Firebase", ]
+        misc: ["Firebase","unity" ]
     }
 }
 ```
