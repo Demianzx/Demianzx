@@ -9,7 +9,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently a Game Developer with Unity3D and C#;
-- 🌱 I’m currently learning "Machine Learning" focused on videogames and NFT games; 
+- 🌱 I’m currently learning "Machine Learning" focused on videogames and VR games; 
 - 🤔 My interests are with gameplay, IA and crypto.
 - 💼 I Finished the Computer System Engineering degree;
 - 💬 Ask me about anything, I am happy to help;
